@@ -3,7 +3,7 @@ Supportive information of "Selenium species in cerebrospinal fluid and hippocamp
 
 Any issues please contact: erica.balboni@unimore.it
 
-## World files 
+## Word files 
 -----------------
 -Figure.docx: result file of SPHARM-PDM analysis using mean hippocampal shapes of subjects having more vs less than 0.2ng/mL of Selenate in CSF
 
