@@ -1,4 +1,4 @@
-# Supportive-information
+# Supporting-information
 Supporting information of "Selenium species in cerebrospinal fluid and hippocampal volume among individuals with mild cognitive impairment"
 
 Any issues please contact: erica.balboni@unimore.it
